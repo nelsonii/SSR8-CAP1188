@@ -30,6 +30,10 @@ Outbound connectors are already on the relay board.
 
 ---
 
+If you print the enclosure, you can start (or only do) the bottom. That has all the mounting points. The top takes 2.5 hrs to print, so save that for when all is working. I'm using 6x2 magnets (4) to attach the top, as it will be removed often. 2.5x4mm screws for most boards, except 2.0mm for CAP1188. Invert the top Y 180 in slicer.
+
+---
+
 Caution: The relay board isn't always the greatest. I've found some of the screw terminal blocks to be broken, or messed up. You may need to re-solder them. Also, I found the Input Terminal blocks to be too big/sloppy for my wiring from the CAP1188. So, I used Molex connectors and the pin header found on the SSR board for the inputs. The extra benefit of this is that those blocks are free for other prototyping uses.
 
 ---
